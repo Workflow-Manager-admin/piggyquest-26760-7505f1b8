@@ -115,3 +115,62 @@ Module not found: Error: Can't resolve './SavingsReport' in '/home/kavia/workspa
 
 webpack compiled with 3 errors
 Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+ERROR in ./src/App.js 5:0-80
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 10:0-44
+Module not found: Error: Can't resolve './SavingsReport' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+ERROR in ./src/App.js 5:0-80
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 10:0-44
+Module not found: Error: Can't resolve './SavingsReport' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+ERROR in ./src/App.js 5:0-80
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 10:0-44
+Module not found: Error: Can't resolve './SavingsReport' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+ERROR in ./src/App.js 5:0-80
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 10:0-44
+Module not found: Error: Can't resolve './SavingsReport' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+webpack compiled with 2 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+ERROR in ./src/App.js 5:0-80
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+webpack compiled with 1 error
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+ERROR in ./src/App.js 5:0-80
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+webpack compiled with 1 error
