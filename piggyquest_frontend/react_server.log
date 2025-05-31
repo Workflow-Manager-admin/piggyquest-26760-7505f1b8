@@ -18,3 +18,24 @@ Note that the development build is not optimized.
 To create a production build, use npm run build.
 
 webpack compiled successfully
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+ERROR in ./src/App.js 5:0-80
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 7:0-44
+Module not found: Error: Can't resolve './HomeDashboard' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 8:0-36
+Module not found: Error: Can't resolve './GoalSetup' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 9:0-48
+Module not found: Error: Can't resolve './ParentDashboard' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+ERROR in ./src/App.js 10:0-44
+Module not found: Error: Can't resolve './SavingsReport' in '/home/kavia/workspace/code-generation/piggyquest-26760-7505f1b8/piggyquest_frontend/src'
+
+webpack compiled with 5 errors
+Compiling...
